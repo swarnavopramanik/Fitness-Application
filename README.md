@@ -25,6 +25,25 @@
 Develop services to promote healthy living, fitness, and sports performance. This could include wearable fitness trackers, AI-driven personal trainers, or nutrition tracking apps.
 
 ## 📷 Screenshots 
+![Screenshot (618)](https://github.com/swarnavopramanik/Fitness-Application/assets/105142693/6796a06a-d84c-4378-846d-33171181c581)
+![Screenshot (619)](https://github.com/swarnavopramanik/Fitness-Application/assets/105142693/ce1f8369-6f7b-4668-ae87-422cac8a98f7)
+![Screenshot (620)](https://github.com/swarnavopramanik/Fitness-Application/assets/105142693/b69535dc-7468-4540-b7a7-190f68bfb5f6)
+
+### 🛠️ Installation
+
+1. Fork the repo
+2. Clone the repository `https://github.com/<Your-username>/Fitness-Application`
+3. Run `cd Fitness-Application` to change the working directory
+4. Run `npm install` to install all dependencies
+5. Run `npm start` to start the application
+6. Visit [http://localhost:3000](http://localhost:3000) to view the application
+
+### Tech Stack Used
+
+![reactjs](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![javascript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 
+#### React.js
+React is one of the most popular web frontend libraries in the world, hitting almost 30 million downloads every month according to the NPM trends tracker. It is a declarative and component-based library, making use of the so-called state to propagate changes throughout the components of your application.
 
