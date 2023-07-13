@@ -45,3 +45,5 @@ Develop services to promote healthy living, fitness, and sports performance. Thi
 #### React.js
 React is one of the most popular web frontend libraries in the world, hitting almost 30 million downloads every month according to the NPM trends tracker. It is a declarative and component-based library, making use of the so-called state to propagate changes throughout the components of your application.
 
+## 🙏 Support
+This project needs a ⭐️ from you. Don't forget to leave a star ⭐️
