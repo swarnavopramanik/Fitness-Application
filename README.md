@@ -29,7 +29,7 @@ Develop services to promote healthy living, fitness, and sports performance. Thi
 ![Screenshot (619)](https://github.com/swarnavopramanik/Fitness-Application/assets/105142693/ce1f8369-6f7b-4668-ae87-422cac8a98f7)
 ![Screenshot (620)](https://github.com/swarnavopramanik/Fitness-Application/assets/105142693/b69535dc-7468-4540-b7a7-190f68bfb5f6)
 
-## ⭐ Live Demo 
+## 👀 Live Demo 👇
 [Click here](https://fitness-application-khaki.vercel.app/)
 
 ### 🛠️ Installation
