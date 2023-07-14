@@ -18,7 +18,7 @@
  </div>
 
   # This project is a part of the following Hackathon!
-  ![image](![image](https://github.com/swarnavopramanik/Fitness-Application/assets/105142693/bfdfdf7d-2116-4500-90a0-220ad7ba0486)
+  ![image]((https://github.com/swarnavopramanik/Fitness-Application/assets/105142693/bfdfdf7d-2116-4500-90a0-220ad7ba0486)
 )
 
   ## 🚀 About 
