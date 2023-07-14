@@ -18,8 +18,8 @@
  </div>
 
   # This project is a part of the following Hackathon!
-  ![image]((https://github.com/swarnavopramanik/Fitness-Application/assets/105142693/bfdfdf7d-2116-4500-90a0-220ad7ba0486)
-)
+  ![Promotion](https://github.com/swarnavopramanik/Fitness-Application/assets/105142693/1cc636f4-5959-4051-b226-b30a731f460a)
+
 
   ## 🚀 About 
 <h4 align="center">Health, Fitness & Sports</h4>
